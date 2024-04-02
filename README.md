@@ -2,7 +2,7 @@
 
 ### Overview of the Challenge(credit-risk-classification)
 
-The objective of this Challenge is to develop a machine learning model that can accurately predict the creditworthiness of borrowers based on historical lending data. 
+The objective of this challenge is to develop a machine learning model capable of accurately predicting the creditworthiness of borrowers using historical lending data. Additionally, the task involves creating an appropriate analysis report based on the developed model's performance.
 
 ### Splitting the Data into Training and Testing Sets
 
