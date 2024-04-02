@@ -1,6 +1,6 @@
 # Supervised Learning
 
-### Overview of the Challenge
+### Overview of the Challenge(credit-risk-classification)
 
 The objective of this Challenge is to develop a machine learning model that can accurately predict the creditworthiness of borrowers based on historical lending data. 
 
