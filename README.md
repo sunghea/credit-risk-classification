@@ -14,3 +14,5 @@ The logistic regression model demonstrated strong performance in predicting cred
 Confusion Matrix: The confusion matrix showed that the model correctly classified a large majority of loans as healthy (0) or high-risk (1).
 Classification Report: The classification report provided detailed metrics such as precision, recall, and F1-score for both healthy and high-risk loans.
 Question Answer: The logistic regression model performed well in predicting both healthy (0) and high-risk (1) labels, as evidenced by high precision, recall, and F1-score for both classes.
+Summary
+Overall, the logistic regression model showed promising results in predicting credit risk based on historical lending data. Its high accuracy, precision, and recall make it a suitable candidate for deployment in the company's decision-making process for loan approvals. However, it's essential to consider the context of the problem and business objectives when interpreting the model's performance. Ongoing monitoring and optimization of the model may further enhance its predictive capabilities over time.
