@@ -1,4 +1,4 @@
-## credit-risk-classification
+# credit-risk-classification
 
 ### Overview of the Challenge
 
@@ -18,9 +18,9 @@ The logistic regression model demonstrated strong performance in predicting cred
 - **Confusion Matrix:** The confusion matrix showed that the model correctly classified a large majority of loans as healthy (0) or high-risk (1).
 - **Classification Report:** The classification report provided detailed metrics such as precision, recall, and F1-score for both healthy and high-risk loans.
 
-## Credit Risk Analysis Report
+# Credit Risk Analysis Report
 
-# Overview of the Analysis
+## Overview of the Analysis
 
 In this analysis, we aimed to develop machine learning models to predict the creditworthiness of borrowers based on historical lending data. The purpose was to assist financial institutions in assessing lending risks. The data included various financial information about borrowers, such as credit score, debt-to-income ratio, loan amount, etc. We needed to predict the likelihood of loan default, which was indicated by the "loan_status" column.
 
