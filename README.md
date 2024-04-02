@@ -1,4 +1,4 @@
-# credit-risk-classification
+# Supervised Learning
 
 ### Overview of the Challenge
 
