@@ -1,6 +1,6 @@
-# Supervised Learning
+# Credit Risk Analysis Report
 
-### Overview of the Challenge(credit-risk-classification)
+### Overview of the Analysis
 
 The objective of this challenge is to develop a machine learning model capable of accurately predicting the creditworthiness of borrowers using historical lending data. Additionally, the task involves creating an appropriate analysis report based on the developed model's performance.
 
@@ -17,14 +17,6 @@ I trained a logistic regression model using the training data (X_train and y_tra
 The logistic regression model demonstrated strong performance in predicting credit risk:
 - **Confusion Matrix:** The confusion matrix showed that the model correctly classified a large majority of loans as healthy (0) or high-risk (1).
 - **Classification Report:** The classification report provided detailed metrics such as precision, recall, and F1-score for both healthy and high-risk loans.
-
-# Credit Risk Analysis Report
-
-## Overview of the Analysis
-
-In this analysis, we aimed to develop machine learning models to predict the creditworthiness of borrowers based on historical lending data. The purpose was to assist financial institutions in assessing lending risks. The data included various financial information about borrowers, such as credit score, debt-to-income ratio, loan amount, etc. We needed to predict the likelihood of loan default, which was indicated by the "loan_status" column.
-
-We followed a typical machine learning process, starting with data preprocessing, splitting the data into training and testing sets, and training various models. We primarily utilized logistic regression for this analysis, although other algorithms could be explored in future iterations.
 
 ## Results
 
